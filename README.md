@@ -19,6 +19,8 @@
 
 - 📫 How to reach me **thequantumcoder@gmail.com**
 
+- 📄 Know about my experiences [(resume)](https://drive.google.com/file/d/1cB82n8uCA6moW6tciyJCFxCcfBjFoobX/view?usp=drive_link)
+
 - ⚡ Fun fact :  **Not gonna wake up anytime soon if I sit for coding 😬**
 
 <h3 align="left">Connect with me:</h3>
