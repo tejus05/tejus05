@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/thequantumcoder" target="blank"><img src="https://img.shields.io/twitter/follow/thequantumcoder?logo=twitter&style=for-the-badge" alt="thequantumcoder" /></a> </p>
 
-- 🔭 I’m currently working on [Digital Hippo](https://github.com/tejus05/DigitalHippo)  (a marketplace for sticker collections)
+- 🔭 I’m currently working on [Discord Clone](https://github.com/tejus05/discord-clone)  to explore the concept of web sockets. 
 
-- 🌱 I’m currently learning **Next and tRPC**
+- 🌱 I’m currently learning **Next, tRPC and much more**
 
 - 🚀 My plans for future **React Native and Astro**
 
