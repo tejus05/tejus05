@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **thequantumcoder@gmail.com**
 
-- 📄 Know about my experiences [(resume)](https://drive.google.com/file/d/1cB82n8uCA6moW6tciyJCFxCcfBjFoobX/view?usp=drive_link)
+- 📄 Know about my experiences [(resume)](https://drive.google.com/file/d/12gy5pEqVcqJ94QtBhoueEorDdK0-cBsd/view?usp=sharing)
 
 - ⚡ Fun fact :  **Not gonna wake up anytime soon if I sit for coding 😬**
 
