@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next, tRPC and much more**
 
-- 🚀 My plans for future **React Native and Astro**
+- 🚀 My plans for future **Web3, React Native and Astro**
 
 - 👨‍💻 Do visit my [Twitter](https://twitter.com/thequantumcoder)
 
