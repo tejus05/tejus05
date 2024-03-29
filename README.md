@@ -34,5 +34,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejus05&show_icons=true&locale=en&layout=compact" alt="tejus05" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejus05&show_icons=true&locale=en" alt="tejus05" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejus05&" alt="tejus05" /></p>
